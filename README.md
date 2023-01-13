@@ -26,3 +26,5 @@ And a tree of height 10:
 
 ![10 lines](img/10-lines.png)
 
+#### Source
+[Let's build a Christmas tree](https://www.codurance.com/katalyst/build-a-christmas-tree)
