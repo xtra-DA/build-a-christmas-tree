@@ -1,6 +1,4 @@
 # build-a-christmas-tree
-a fun kata to learn how to display and compare console application
-
 There is a shortage of Christmas trees this year, however, you can help! In the absence of real trees, Santa is going to teach the children of the world the magic of the console.
 
 Unfortunately, being approximately 1,751 years old, Santa can only write binary, and needs your help to write a program in a more modern language.
